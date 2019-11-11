@@ -1,0 +1,11 @@
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\bin\Debug\netcoreapp3.0\HelloWorldKahMarullo.exe
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\bin\Debug\netcoreapp3.0\HelloWorldKahMarullo.deps.json
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\bin\Debug\netcoreapp3.0\HelloWorldKahMarullo.runtimeconfig.json
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\bin\Debug\netcoreapp3.0\HelloWorldKahMarullo.runtimeconfig.dev.json
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\bin\Debug\netcoreapp3.0\HelloWorldKahMarullo.dll
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\bin\Debug\netcoreapp3.0\HelloWorldKahMarullo.pdb
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\obj\Debug\netcoreapp3.0\HelloWorldKahMarullo.csprojAssemblyReference.cache
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\obj\Debug\netcoreapp3.0\HelloWorldKahMarullo.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\obj\Debug\netcoreapp3.0\HelloWorldKahMarullo.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\obj\Debug\netcoreapp3.0\HelloWorldKahMarullo.dll
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\HelloWorldKahMarullo\HelloWorldKahMarullo\obj\Debug\netcoreapp3.0\HelloWorldKahMarullo.pdb
